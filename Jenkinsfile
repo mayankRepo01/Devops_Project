@@ -16,7 +16,7 @@ pipeline
           {
             steps
             {
-              echo 'world'
+              echo 'world Mayank'
             }
           }
       } 
