@@ -12,7 +12,7 @@ pipeline
           }
         }
     
-         stage('after')
+         stage('Prod')
           {
             steps
             {
